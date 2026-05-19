@@ -39,9 +39,8 @@ The Cluster list view shows all Cluster resources in the management cluster, inc
 ![Cluster List](../images/image1.png)
 The Cluster detail view provides resource status, conditions, infrastructure references, control plane references, and related Machines on a single page.
 
-![Cluster List](../images/image2.png)
-
 ![Cluster List](../images/image3.png)
+![Cluster List](../images/image2.png)
 
 ## Explore Cluster API Resources in a Visual Interface
 
